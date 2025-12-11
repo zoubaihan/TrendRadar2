@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T14:38:32.133531+08:00",
-  "total_titles_processed": 1411,
+  "generated_at": "2025-12-11T15:27:19.071255+08:00",
+  "total_titles_processed": 1504,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 51,
       "titles": [
         {
           "title": "高市早苗求见特朗普",
@@ -21,6 +21,18 @@
           "time_info": "[04时28分 ~ 11时27分]"
         },
         {
+          "title": "特朗普威胁哥伦比亚总统：马杜罗之后，就是你",
+          "url": "https://news.ifeng.com/c/8ozeTrd98oe",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时37分 ~ 15时27分]"
+        },
+        {
           "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
           "url": "https://news.ifeng.com/c/8oyaoHd0S2N",
           "source": "凤凰网",
@@ -32,18 +44,6 @@
           "time_info": "[00时05分 ~ 07时21分]"
         },
         {
-          "title": "特朗普威胁哥伦比亚总统：马杜罗之后，就是你",
-          "url": "https://news.ifeng.com/c/8ozeTrd98oe",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时37分 ~ 14时38分]"
-        },
-        {
           "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
           "url": "https://www.cls.cn/detail/2225986",
           "source": "财联社热门",
@@ -53,8 +53,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时52分 ~ 14时38分]"
+          "appearance_count": 9,
+          "time_info": "[09时52分 ~ 15时27分]"
         },
         {
           "title": "特朗普发飙怒斥记者",
@@ -205,6 +205,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时25分 ~ 06时23分]"
+        },
+        {
+          "title": "美威胁国际刑事法院：不要调查特朗普",
+          "url": "https://www.toutiao.com/trending/7582367829178269750/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时26分 ~ 15时27分]"
         },
         {
           "title": "关税重压下 美共和党议员为农业设备向特朗普求助",
@@ -595,8 +606,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时52分 ~ 14时38分]"
+          "appearance_count": 9,
+          "time_info": "[09时52分 ~ 15时27分]"
         },
         {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
@@ -607,8 +618,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时20分 ~ 14时38分]"
+          "appearance_count": 11,
+          "time_info": "[07时20分 ~ 15时27分]"
         },
         {
           "title": "决议前夕美股期指窄幅震荡 华尔街等待鲍威尔亮出底牌 | 今夜看点",
@@ -1020,8 +1031,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时05分 ~ 14时38分]"
+          "appearance_count": 22,
+          "time_info": "[00时05分 ~ 15时27分]"
         }
       ]
     }
