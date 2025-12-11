@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T13:26:12.133858+08:00",
-  "total_titles_processed": 1300,
+  "generated_at": "2025-12-11T14:38:32.133531+08:00",
+  "total_titles_processed": 1411,
   "failed_sources": [],
   "trends": [
     {
@@ -40,19 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时37分 ~ 13时26分]"
-        },
-        {
-          "title": "特朗普发飙怒斥记者",
-          "url": "https://www.douyin.com/hot/2332016",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "appearance_count": 4,
+          "time_info": "[12时37分 ~ 14时38分]"
         },
         {
           "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
@@ -64,8 +53,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时52分 ~ 13时26分]"
+          "appearance_count": 7,
+          "time_info": "[09时52分 ~ 14时38分]"
+        },
+        {
+          "title": "特朗普发飙怒斥记者",
+          "url": "https://www.douyin.com/hot/2332016",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 00时35分]"
         },
         {
           "title": "高市早苗求见特朗普",
@@ -235,7 +235,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -246,7 +246,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -595,8 +595,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时52分 ~ 13时26分]"
+          "appearance_count": 7,
+          "time_info": "[09时52分 ~ 14时38分]"
         },
         {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
@@ -607,8 +607,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时20分 ~ 13时26分]"
+          "appearance_count": 9,
+          "time_info": "[07时20分 ~ 14时38分]"
         },
         {
           "title": "决议前夕美股期指窄幅震荡 华尔街等待鲍威尔亮出底牌 | 今夜看点",
@@ -1016,11 +1016,12 @@
             7,
             6,
             4,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时05分 ~ 13时26分]"
+          "appearance_count": 20,
+          "time_info": "[00时05分 ~ 14时38分]"
         }
       ]
     }
