@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T19:22:26.712398+08:00",
-  "total_titles_processed": 1912,
+  "generated_at": "2025-12-11T20:52:58.546013+08:00",
+  "total_titles_processed": 2032,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 62,
+      "match_count": 64,
       "titles": [
         {
           "title": "高市早苗求见特朗普",
@@ -58,6 +58,17 @@
           "time_info": "[00时05分 ~ 07时21分]"
         },
         {
+          "title": "指望特朗普出面给日本帮腔，中国就会让步？日学者：大错特错",
+          "url": "https://news.ifeng.com/c/8ozzAO4JqEe",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时29分 ~ 20时52分]"
+        },
+        {
           "title": "特朗普：被扣押油轮上的石油归美国了",
           "url": "https://www.toutiao.com/trending/7581744403334086710/",
           "source": "今日头条",
@@ -67,17 +78,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时33分 ~ 17时29分]"
-        },
-        {
-          "title": "指望特朗普出面给日本帮腔，中国就会让步？日学者：大错特错",
-          "url": "https://news.ifeng.com/c/8ozzAO4JqEe",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时29分 ~ 19时22分]"
         },
         {
           "title": "特朗普发飙怒斥记者",
@@ -158,6 +158,17 @@
           "time_info": "[05时25分 ~ 06时23分]"
         },
         {
+          "title": "泰国总理回应特朗普：一通电话无法解决泰柬冲突",
+          "url": "https://news.ifeng.com/c/8ozyUBmNa9F",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时29分 ~ 20时52分]"
+        },
+        {
           "title": "华纳收购案再迎变数 特朗普称CNN必须被出售",
           "url": "https://flash.jin10.com/detail/20251211055914043800",
           "source": "金十数据",
@@ -182,15 +193,16 @@
           "time_info": "[15时26分 ~ 16时34分]"
         },
         {
-          "title": "泰国总理回应特朗普：一通电话无法解决泰柬冲突",
-          "url": "https://news.ifeng.com/c/8ozyUBmNa9F",
-          "source": "凤凰网",
+          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
+          "source": "澎湃新闻",
           "ranks": [
-            8
+            19,
+            18
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时29分 ~ 19时22分]"
+          "time_info": "[18时28分 ~ 20时52分]"
         },
         {
           "title": "特朗普回应美联储降息：幅度太小",
@@ -251,18 +263,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时25分 ~ 06时23分]"
-        },
-        {
-          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 19时22分]"
         },
         {
           "title": "美称特朗普重视与华建立建设性关系",
@@ -340,6 +340,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
+        },
+        {
+          "title": "北约秘书长吕特：美国总统特朗普是唯一能让俄罗斯总统普京坐上谈判桌的人。",
+          "url": "https://flash.jin10.com/detail/20251211203322354800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         },
         {
           "title": "“这一点至关重要”，美贸易代表：特朗普非常重视与中国建立“建设性”关系",
@@ -505,6 +516,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        },
+        {
+          "title": "诺贝尔奖得主马查多：美国总统特朗普在委内瑞拉问题上的行动“果断有力”。",
+          "url": "https://flash.jin10.com/detail/20251211201426682800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         },
         {
           "title": "特朗普继续批评鲍威尔，声称美联储降息幅度本来可以翻倍的",
@@ -730,8 +752,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时52分 ~ 19时22分]"
+          "appearance_count": 15,
+          "time_info": "[09时52分 ~ 20时52分]"
         },
         {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
@@ -1173,6 +1195,23 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek崩了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        }
+      ]
+    },
+    {
       "keyword_group": "Qwen",
       "match_count": 1,
       "titles": [
@@ -1189,8 +1228,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时05分 ~ 19时22分]"
+          "appearance_count": 28,
+          "time_info": "[00时05分 ~ 20时52分]"
         }
       ]
     }
