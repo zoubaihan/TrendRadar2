@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T19:23:13.855076+08:00",
-  "total_titles_processed": 1797,
+  "generated_at": "2025-12-12T20:50:35.813188+08:00",
+  "total_titles_processed": 1932,
   "failed_sources": [],
   "trends": [
     {
@@ -31,11 +31,12 @@
             6,
             8,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时25分 ~ 19时23分]"
+          "appearance_count": 12,
+          "time_info": "[13时25分 ~ 20时50分]"
         },
         {
           "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
@@ -44,11 +45,12 @@
           "ranks": [
             11,
             12,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时26分 ~ 19时23分]"
+          "appearance_count": 14,
+          "time_info": "[11时26分 ~ 20时50分]"
         },
         {
           "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
@@ -64,28 +66,17 @@
           "time_info": "[00时34分 ~ 07时22分]"
         },
         {
-          "title": "白宫：特朗普对俄乌都很失望",
-          "url": "https://news.ifeng.com/c/8p1LpVJOOIe",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时36分 ~ 15时26分]"
-        },
-        {
           "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
           "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
           "source": "凤凰网",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时33分 ~ 19时23分]"
+          "appearance_count": 8,
+          "time_info": "[16时33分 ~ 20时50分]"
         },
         {
           "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
@@ -96,8 +87,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时33分 ~ 19时23分]"
+          "appearance_count": 8,
+          "time_info": "[16时33分 ~ 20时50分]"
+        },
+        {
+          "title": "白宫：特朗普对俄乌都很失望",
+          "url": "https://news.ifeng.com/c/8p1LpVJOOIe",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时36分 ~ 15时26分]"
         },
         {
           "title": "大陪审团拒绝起诉纽约州总检察长，特朗普再遭挫折",
@@ -461,7 +464,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -690,8 +693,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时36分 ~ 19时23分]"
+          "appearance_count": 13,
+          "time_info": "[12时36分 ~ 20时50分]"
         },
         {
           "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
@@ -1193,8 +1196,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时26分 ~ 19时23分]"
+          "appearance_count": 14,
+          "time_info": "[11时26分 ~ 20时50分]"
         },
         {
           "title": "摩根大通：将谷歌母公司Alphabet目标价由340美元上调至385美元。",
@@ -1244,6 +1247,18 @@
           "time_info": "[00时35分 ~ 01时28分]"
         },
         {
+          "title": "UP主解读OpenAI和谷歌的AI大战",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时22分 ~ 20时50分]"
+        },
+        {
           "title": "谷歌母公司Alphabet跌幅扩大至3.5%。 微软涨1.2%，刷新日高。",
           "url": "https://wallstreetcn.com/livenews/3019371",
           "source": "华尔街见闻-快讯",
@@ -1254,17 +1269,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时22分 ~ 04时27分]"
-        },
-        {
-          "title": "UP主解读OpenAI和谷歌的AI大战",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时22分 ~ 19时23分]"
         },
         {
           "title": "谷歌(GOOG.O)：推出交互API，为与我们的模型、Gemini 3 Pro以及Gemini深度研究等智能体进行交互提供统一接口。",
