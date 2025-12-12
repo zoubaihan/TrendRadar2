@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T20:50:35.813188+08:00",
-  "total_titles_processed": 1932,
+  "generated_at": "2025-12-12T21:37:33.283720+08:00",
+  "total_titles_processed": 2018,
   "failed_sources": [],
   "trends": [
     {
@@ -35,8 +35,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时25分 ~ 20时50分]"
+          "appearance_count": 13,
+          "time_info": "[13时25分 ~ 21时37分]"
         },
         {
           "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
@@ -53,6 +53,31 @@
           "time_info": "[11时26分 ~ 20时50分]"
         },
         {
+          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
+          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时33分 ~ 21时37分]"
+        },
+        {
+          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
+          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时33分 ~ 21时37分]"
+        },
+        {
           "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
           "source": "澎湃新闻",
@@ -64,31 +89,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时34分 ~ 07时22分]"
-        },
-        {
-          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
-          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时33分 ~ 20时50分]"
-        },
-        {
-          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
-          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时33分 ~ 20时50分]"
         },
         {
           "title": "白宫：特朗普对俄乌都很失望",
@@ -693,8 +693,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时36分 ~ 20时50分]"
+          "appearance_count": 14,
+          "time_info": "[12时36分 ~ 21时37分]"
         },
         {
           "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
@@ -1196,8 +1196,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时26分 ~ 20时50分]"
+          "appearance_count": 15,
+          "time_info": "[11时26分 ~ 21时37分]"
         },
         {
           "title": "摩根大通：将谷歌母公司Alphabet目标价由340美元上调至385美元。",
@@ -1255,8 +1255,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时22分 ~ 20时50分]"
+          "appearance_count": 4,
+          "time_info": "[19时22分 ~ 21时37分]"
         },
         {
           "title": "谷歌母公司Alphabet跌幅扩大至3.5%。 微软涨1.2%，刷新日高。",
