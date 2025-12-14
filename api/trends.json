@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-14T20:43:39.983649+08:00",
-  "total_titles_processed": 1279,
+  "generated_at": "2025-12-14T21:29:55.006383+08:00",
+  "total_titles_processed": 1329,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "泰外长：特朗普的言论令人失望，伤害了泰国人民的感情",
@@ -160,6 +160,17 @@
           "time_info": "[05时20分 ~ 09时57分]"
         },
         {
+          "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
+          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 21时29分]"
+        },
+        {
           "title": "特朗普对其经济政策能否助力中期选举存疑",
           "url": "https://flash.jin10.com/detail/20251214101831272800",
           "source": "金十数据",
@@ -221,17 +232,6 @@
           "time_info": "09时57分"
         },
         {
-          "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
-          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
           "title": "特朗普说中国团结一心干大事",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%B8%AD%E5%9B%BD%E5%9B%A2%E7%BB%93%E4%B8%80%E5%BF%83%E5%B9%B2%E5%A4%A7%E4%BA%8B%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -290,6 +290,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时29分 ~ 17时23分]"
+        },
+        {
+          "title": "特朗普回应美士兵在叙遇袭身亡",
+          "url": "https://www.douyin.com/hot/2335907",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
         },
         {
           "title": "特朗普的“新五常”计划可行吗",
