@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-14T13:23:33.840645+08:00",
-  "total_titles_processed": 797,
+  "generated_at": "2025-12-14T14:34:06.561641+08:00",
+  "total_titles_processed": 854,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 24,
       "titles": [
+        {
+          "title": "泰外长：特朗普的言论令人失望，伤害了泰国人民的感情",
+          "url": "https://news.ifeng.com/c/8p4UvIdlABH",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时57分 ~ 14时34分]"
+        },
         {
           "title": "一图看懂｜泰国拒绝特朗普停火要求，泰柬军力对比如何？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32170002",
@@ -112,17 +123,6 @@
           "time_info": "[00时27分 ~ 04时25分]"
         },
         {
-          "title": "泰外长：特朗普的言论令人失望，伤害了泰国人民的感情",
-          "url": "https://news.ifeng.com/c/8p4UvIdlABH",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时57分 ~ 13时23分]"
-        },
-        {
           "title": "美国与墨西哥达成供水协议，此前特朗普威胁要加征5%的关税",
           "url": "https://wallstreetcn.com/livenews/3020265",
           "source": "华尔街见闻-快讯",
@@ -134,6 +134,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时20分 ~ 09时57分]"
+        },
+        {
+          "title": "3名美方人员遇袭身亡，特朗普：我们会报复",
+          "url": "https://news.ifeng.com/c/8p4BJFCiQzZ",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时57分 ~ 14时34分]"
         },
         {
           "title": "详解特朗普金卡白金卡签证",
@@ -171,15 +182,40 @@
           "time_info": "09时57分"
         },
         {
-          "title": "3名美方人员遇袭身亡，特朗普：我们会报复",
-          "url": "https://news.ifeng.com/c/8p4BJFCiQzZ",
-          "source": "凤凰网",
+          "title": "3名美方人员遇袭死亡，特朗普誓言报复",
+          "url": "https://www.cls.cn/detail/2228813",
+          "source": "财联社热门",
           "ranks": [
-            6
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时42分 ~ 14时34分]"
+        },
+        {
+          "title": "特朗普对其经济政策能否助力中期选举存疑",
+          "url": "https://flash.jin10.com/detail/20251214101831272800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时57分 ~ 13时23分]"
+          "time_info": "[11时42分 ~ 14时34分]"
+        },
+        {
+          "title": "美三名人员在叙利亚丧生 特朗普表示将采取报复行动",
+          "url": "https://flash.jin10.com/detail/20251214100231761800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 14时34分]"
         },
         {
           "title": "特朗普说中国团结一心干大事",
@@ -204,40 +240,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时28分 ~ 03时18分]"
-        },
-        {
-          "title": "特朗普对其经济政策能否助力中期选举存疑",
-          "url": "https://flash.jin10.com/detail/20251214101831272800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 13时23分]"
-        },
-        {
-          "title": "美三名人员在叙利亚丧生 特朗普表示将采取报复行动",
-          "url": "https://flash.jin10.com/detail/20251214100231761800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 13时23分]"
-        },
-        {
-          "title": "3名美方人员遇袭死亡，特朗普誓言报复",
-          "url": "https://www.cls.cn/detail/2228813",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 13时23分]"
         },
         {
           "title": "特朗普：不确定经济政策能否带来中期选举的胜利",
@@ -331,11 +333,12 @@
           "url": "https://flash.jin10.com/detail/20251214105538781800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 13时23分]"
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 14时34分]"
         }
       ]
     },
@@ -349,11 +352,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 13时23分]"
+          "appearance_count": 18,
+          "time_info": "[00时27分 ~ 14时34分]"
         },
         {
           "title": "宋雪涛2026美股展望：AI泡沫的内部熔点与外部拐点",
